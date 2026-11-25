@@ -1,4 +1,4 @@
-<p align="center"><img src="assets/banner.svg" width="100%" alt="Giovanna Martinez — mundo de ametista"></p>
+<p align="center"><img src="assets/banner-nome-completo.svg" width="100%" alt="Giovanna Martinez Belasques Gomes — mundo de ametista"></p>
 
 <p align="center"><img alt="Apresentação animada" src="https://readme-typing-svg.demolab.com?font=Fira+Code&amp;size=17&amp;pause=1200&amp;color=B89AE8&amp;center=true&amp;vCenter=true&amp;width=500&amp;lines=Explorando+o+universo+dos+dados;Aprendendo%2C+criando+e+evoluindo;Um+bloco+de+cada+vez..."></p>
 
