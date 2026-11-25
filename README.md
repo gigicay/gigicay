@@ -35,6 +35,8 @@ Minecraft marcou minha infância e inspira a identidade visual deste perfil: apr
 
 ## ✦ 03 / Ferramentas e tecnologias
 
+<p align="center"><img src="assets/inventory.svg" width="100%" alt="Inventário estilo Minecraft: Python, SQL, HTML, CSS, Pandas, Streamlit, Git e Power Query"></p>
+
 <p align="center"><img src="https://skillicons.dev/icons?i=python,html,css,git,github&amp;theme=dark" alt="Python, HTML, CSS, Git e GitHub"></p>
 
 <p align="center">
